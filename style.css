@@ -1,0 +1,21 @@
+header{
+    background-color: #264653;
+}
+nav .btn{
+    background-color: #E76F51;
+    color: #ffffff;
+}
+.text-color{
+    color: #e0e0e0;
+}
+.image-margin{
+    margin-left: 265px;
+}
+.row .col .purchase-btn{
+    background-color: #E76F51;
+    border-radius: 5px;
+    padding: 8px 44px;
+    color: #ffffff;
+    margin-bottom: 44px;
+
+}
