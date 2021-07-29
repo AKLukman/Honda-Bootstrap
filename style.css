@@ -5,8 +5,12 @@ nav .btn{
     background-color: #E76F51;
     color: #ffffff;
 }
+.text-color-p{
+    color: #E0E0E0;
+
+}
 .text-color{
-    color: #e0e0e0;
+    color: #E76F51;
 }
 .image-margin{
     margin-left: 265px;
@@ -18,4 +22,29 @@ nav .btn{
     color: #ffffff;
     margin-bottom: 44px;
 
+}
+.gray-scale{
+    filter: grayscale(100%);
+
+}
+
+span{
+    color: #E76F51;
+}
+
+.fas{
+    color: #E77C40;
+    font-size: 16px;
+}
+.name-client{
+    color: #23A6F0;
+    font-size: 14px;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.position-name{
+    color: #252B42;
+    font-size: 14px;
+    font-weight: 600;
 }
