@@ -12,6 +12,7 @@ nav .btn{
 }
 .text-color{
     color: #E76F51;
+    margin-bottom: 5px;
 }
 .image-margin{
     margin-left: 265px;
@@ -90,4 +91,12 @@ span{
 
 footer{
     background-color: black;
+}
+
+.box{
+    width: 50px;
+    height: 3px;
+    background-color: #E76F51;
+    display: block;
+    margin: auto;
 }
